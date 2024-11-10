@@ -7,7 +7,7 @@ I’m Nadeem, a solution engineer passionate about tackling complex challenges a
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **unit testing** and **end-to-end testing**
+- 🌱 Currently learning **generative AI**
 - 💡 Interested in **all things software development** and exploring **open-source projects**
 - 💞️ Looking to collaborate on **open-source projects** and **innovative solutions**
 - 🎯 Goal for 2024: Contribute more actively to open-source and advance my testing expertise
