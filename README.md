@@ -1,12 +1,63 @@
-- 👋 Hi, I’m @nadeemcite
-- 👀 I’m interested in software development in all programming languages.
-- 🌱 I’m currently learning unit and end to end testing.
-- 💞️ I’m looking to collaborate on all open source languages
-- 📫 How to reach me? just catch me @ https://www.linkedin.com/in/nadeem-sajjad/
+# Hi there, I'm Nadeem 👋
 
-<!---
-nadeemcite/nadeemcite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=nadeemcite&color=blue&style=flat-square) <!-- Optional: Profile views counter -->
+
+I’m Nadeem, a solution engineer passionate about tackling complex challenges and building impactful software. I thrive in end-to-end development, from crafting intuitive interfaces to architecting robust systems.
+
+---
+
+### 👨‍💻 About Me
+- 🌱 Currently learning **unit testing** and **end-to-end testing**
+- 💡 Interested in **all things software development** and exploring **open-source projects**
+- 💞️ Looking to collaborate on **open-source projects** and **innovative solutions**
+- 🎯 Goal for 2024: Contribute more actively to open-source and advance my testing expertise
+
+---
+
+### 💼 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=blue" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=green" />
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=green" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=blue" />
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED" />
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadeem-sajjad/)
+- 🖥️ [Portfolio Website](https://devnadeem.com) <!-- Update with your portfolio URL -->
+- 🐦 [Twitter](https://x.com/nadym_sazad) <!-- Replace with actual Twitter handle if applicable -->
+
+Feel free to reach out – I'm always open to discussing tech, collaborating on projects, or exploring new ideas!
+
+---
+
+### ✨ Featured Projects
+Here are a few projects that I'm proud of:
+
+- **[Interpals Client](https://github.com/nadeemcite/interpals-client)** – A Python-based client using OpenAI API for scheduling and automation.
+- **[Automotive Scheduler](https://github.com/nadeemcite/automotive-scheduler)** – An automation tool built in Python with Google Apps Script integration.
+- **[Easy Quran App](https://github.com/nadeemcite/easy-quran-app)** – A front-end project using Ionic and open APIs for seamless data access.
+
+---
+
+### 📊 Weekly Coding Stats
+<!-- GitHub Readme Stats' Wakatime integration to show coding stats if using Wakatime -->
+<!--
+[![Nadeem's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nadeemcite&layout=compact&theme=radical)](https://wakatime.com/@nadeemcite)
+-->
+
+---
+
+### 💬 Fun Fact
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nadeemcite)
