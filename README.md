@@ -46,13 +46,6 @@ Here are a few projects that I'm proud of:
 
 ---
 
-### 📊 Weekly Coding Stats
-<!-- GitHub Readme Stats' Wakatime integration to show coding stats if using Wakatime -->
-<!--
-[![Nadeem's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nadeemcite&layout=compact&theme=radical)](https://wakatime.com/@nadeemcite)
--->
-
----
 
 ### 💬 Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
