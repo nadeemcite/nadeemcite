@@ -41,8 +41,7 @@ Feel free to reach out – I'm always open to discussing tech, collaborating on 
 ### ✨ Featured Projects
 Here are a few projects that I'm proud of:
 
-- **[Interpals Client](https://github.com/nadeemcite/interpals-client)** – A Python-based client using OpenAI API for scheduling and automation.
-- **[Automotive Scheduler](https://github.com/nadeemcite/automotive-scheduler)** – An automation tool built in Python with Google Apps Script integration.
+- **[TravellerTip](https://travellertip.com)** – A comprehensive travel information hub to help travelers find essential data such as visa requirements, political relations, common scams, popular destinations, and more. Designed to empower anyone planning to explore new destinations.
 - **[Easy Quran App](https://github.com/nadeemcite/easy-quran-app)** – A front-end project using Ionic and open APIs for seamless data access.
 
 ---
