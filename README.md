@@ -1,4 +1,6 @@
-<img src="assets/banner.webp" alt="Nadeem Sajjad — AI Engineer & Software Developer" width="100%" />
+# Nadeem Sajjad
+
+AI Engineer & Software Developer
 
 <p align="center">
   <a href="https://devnadeem.com">Website</a> ·
@@ -65,3 +67,5 @@ I help businesses turn manual workflows into AI-powered products. With 12+ years
 ---
 
 Have a manual workflow worth automating? [Get in touch](https://devnadeem.com/#contact) — I usually reply within a day.
+
+<sub>![Profile views](https://komarev.com/ghpvc/?username=nadeemcite&color=blue&style=flat-square&label=views)</sub>
