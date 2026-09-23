@@ -1,6 +1,6 @@
 # Nadeem Sajjad
 
-AI Engineer & Software Developer
+**Lead Software Engineer · AI & LLM Systems · 12+ years**
 
 <p align="center">
   <a href="https://devnadeem.com">Website</a> ·
@@ -11,11 +11,11 @@ AI Engineer & Software Developer
 
 ---
 
-I help businesses turn manual workflows into AI-powered products. With 12+ years in software, I design and ship LLM applications, autonomous agents, and automation pipelines end to end — from prototype to production on GCP.
+Lead engineer with 12+ years shipping production systems. For the last five years I've worked as a forward-deployed engineer for frontier AI labs and top-tier AI companies, designing and delivering agentic platforms end to end: multi-agent systems, LLM orchestration, and the Kubernetes infrastructure that runs them.
 
-📍 Digital Nomad, currently in New Delhi · Open to new projects
+📍 India · Open to Senior / Lead roles — relocation or remote
 
-### What I'm building
+### Side projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ I help businesses turn manual workflows into AI-powered products. With 12+ years
 
 ### Studying in public
 
-- **[research-notebooks](https://github.com/nadyth/research-notebooks)** — 17 foundational deep-learning papers reimplemented from scratch: Word2Vec, Dropout, Adam, VGGNet, GoogLeNet, Batch Norm, ResNet, seq2seq, Neural Turing Machines, and more. Each paper gets a runnable `solution.ipynb`, an architecture breakdown, and an [Open in Kaggle](https://www.kaggle.com/code/nadymsazad/word2vec-word-representations) notebook linked back to the original arXiv publication.
+- **[research-papers](https://github.com/nadeemcite/research-papers)** — 100 foundational deep-learning papers (and counting) reimplemented from scratch: Word2Vec, Dropout, Adam, VGGNet, GoogLeNet, Batch Norm, ResNet, seq2seq, Neural Turing Machines, Transformer, VAE, and more. Each paper gets a runnable `solution.ipynb`, an architecture breakdown, and an [Open in Kaggle](https://www.kaggle.com/code/nadymsazad/word2vec-word-representations) notebook linked back to the original arXiv publication.
 - **[jev-crash-course](https://github.com/nadeemcite/jev-crash-course)** — an 11-level crash course on Jev, TypeSafe AI's System One decision model. Runnable examples against the real API, plus a capstone ticket-triage project with unit tests and evals. Provider-agnostic via LiteLLM.
 
 ### Open source
@@ -43,6 +43,8 @@ I help businesses turn manual workflows into AI-powered products. With 12+ years
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 **Frontend**  
@@ -56,6 +58,8 @@ I help businesses turn manual workflows into AI-powered products. With 12+ years
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
 **Cloud & DevOps**  
@@ -66,6 +70,6 @@ I help businesses turn manual workflows into AI-powered products. With 12+ years
 
 ---
 
-Have a manual workflow worth automating? [Get in touch](https://devnadeem.com/#contact) — I usually reply within a day.
+Resume, experience, and contact: **[devnadeem.com](https://devnadeem.com)**
 
 <sub>![Profile views](https://komarev.com/ghpvc/?username=nadeemcite&color=blue&style=flat-square&label=views)</sub>
