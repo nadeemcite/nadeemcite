@@ -27,7 +27,7 @@ Lead engineer with 12+ years shipping production systems. For the last five year
 
 ### Studying in public
 
-- **[research-papers](https://github.com/nadeemcite/research-papers)** — 100 foundational deep-learning papers (and counting) reimplemented from scratch: Word2Vec, Dropout, Adam, VGGNet, GoogLeNet, Batch Norm, ResNet, seq2seq, Neural Turing Machines, Transformer, VAE, and more. Each paper gets a runnable `solution.ipynb`, an architecture breakdown, and an [Open in Kaggle](https://www.kaggle.com/code/nadymsazad/word2vec-word-representations) notebook linked back to the original arXiv publication.
+- **[research-papers](https://github.com/nadeemcite/research-papers)** — 21 foundational deep-learning papers (and counting) reimplemented from scratch: Word2Vec, Dropout, Adam, VGGNet, GoogLeNet, Batch Norm, ResNet, seq2seq, Neural Turing Machines, Transformer, VAE, and more. Each paper gets a runnable `solution.ipynb`, an architecture breakdown, and an [Open in Kaggle](https://www.kaggle.com/code/nadymsazad/word2vec-word-representations) notebook linked back to the original arXiv publication.
 - **[jev-crash-course](https://github.com/nadeemcite/jev-crash-course)** — an 11-level crash course on Jev, TypeSafe AI's System One decision model. Runnable examples against the real API, plus a capstone ticket-triage project with unit tests and evals. Provider-agnostic via LiteLLM.
 
 ### Open source
