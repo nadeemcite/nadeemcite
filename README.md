@@ -72,4 +72,4 @@ Lead engineer with 12+ years shipping production systems. For the last five year
 
 Resume, experience, and contact: **[devnadeem.com](https://devnadeem.com)**
 
-<sub>![Profile views](https://komarev.com/ghpvc/?username=nadeemcite&color=blue&style=flat-square&label=views)</sub>
+<sub>![Profile views](https://komarev.com/ghpvc/?username=nadeemcite&color=blue&style=flat-square&label=views&abbreviated=true)</sub>
