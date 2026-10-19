@@ -11,7 +11,7 @@
 
 ---
 
-Lead engineer with 12+ years shipping production systems. For the last five years I've worked as a forward-deployed engineer for frontier AI labs and top-tier AI companies, designing and delivering agentic platforms end to end: multi-agent systems, LLM orchestration, and the Kubernetes infrastructure that runs them.
+Lead engineer with 12+ years shipping production systems. For the last three years I've been building production GenAI and agentic systems end to end: multi-agent platforms, LLM orchestration, and the Kubernetes infrastructure that runs them.
 
 📍 India · Open to Senior / Lead roles — relocation or remote
 
@@ -19,15 +19,18 @@ Lead engineer with 12+ years shipping production systems. For the last five year
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Chess Arena](https://devnadeem.com/docs/chess-arena)** | Benchmark engine that runs LLMs against each other in chess matches and knockout tournaments, logging legality, retries, tokens, and cost for every move | Next.js · Python · Postgres · Cloud Run |
 | **[Video Factory](https://video-factory.devnadeem.com)** | Submit an idea and a 7-stage pipeline generates transcript, audio, images, subtitles, and the final video — with YouTube upload built in | Next.js · Cloud Run · YouTube API |
+| **[google-health-sync](https://github.com/nadeemcite/google-health-sync)** | Self-hosted personal health assistant that syncs Fitbit/Pixel Watch data from the Google Health API, with a chat assistant that remembers you, a diet planner, and a weekly report | Python · LiteLLM · Docker · Raspberry Pi |
+| **[Power Cut Report](https://print.devnadeem.com/reports/power-report.html)** | Automated device-uptime monitor with an LLM-written verdict | |
 | **[AI Learner](https://devnadeem.com/docs/ai-learner)** | Turns any PDF, page, or video into a daily reinforcement-based study loop delivered over Discord with AI feedback | LangChain · Python · Next.js |
 | **[NewsFlow](https://news.devnadeem.com)** | Reel-style news reader that turns RSS feeds into swipeable, image-rich cards | Next.js · RSS · Mobile-first |
 | **[TravellerTip](https://travellertip.com)** | Travel hub covering visa requirements, political relations, common scams, and destinations | Next.js · Postgres |
+| **[Chess Arena](https://devnadeem.com/docs/chess-arena)** | Benchmark engine that runs LLMs against each other in chess matches and knockout tournaments, logging legality, retries, tokens, and cost for every move | Next.js · Python · Postgres · Cloud Run |
 
 ### Studying in public
 
-- **[research-papers](https://github.com/nadeemcite/research-papers)** — 100 foundational deep-learning papers (and counting) reimplemented from scratch: Word2Vec, Dropout, Adam, VGGNet, GoogLeNet, Batch Norm, ResNet, seq2seq, Neural Turing Machines, Transformer, VAE, and more. Each paper gets a runnable `solution.ipynb`, an architecture breakdown, and an [Open in Kaggle](https://www.kaggle.com/code/nadymsazad/word2vec-word-representations) notebook linked back to the original arXiv publication.
+- **[research-papers](https://github.com/nadeemcite/research-papers)** — 100 landmark deep-learning papers, complete, reimplemented from scratch: Word2Vec, Dropout, Adam, VGGNet, GoogLeNet, Batch Norm, ResNet, seq2seq, Neural Turing Machines, Transformer, VAE, and more. Each paper gets a runnable `solution.ipynb`, an architecture breakdown, and an [Open in Kaggle](https://www.kaggle.com/code/nadymsazad/word2vec-word-representations) notebook linked back to the original arXiv publication.
+- **[llm-research-papers](https://github.com/nadeemcite/llm-research-papers)** — Season 2: 100 LLM-era papers from RMSNorm (2019) to 2026, reimplemented from scratch *(in progress)*.
 - **[jev-crash-course](https://github.com/nadeemcite/jev-crash-course)** — an 11-level crash course on Jev, TypeSafe AI's System One decision model. Runnable examples against the real API, plus a capstone ticket-triage project with unit tests and evals. Provider-agnostic via LiteLLM.
 
 ### Open source
