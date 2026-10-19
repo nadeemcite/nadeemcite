@@ -21,7 +21,6 @@ Lead engineer with 12+ years shipping production systems. For the last three yea
 | --- | --- | --- |
 | **[Video Factory](https://video-factory.devnadeem.com)** | Submit an idea and a 7-stage pipeline generates transcript, audio, images, subtitles, and the final video — with YouTube upload built in | Next.js · Cloud Run · YouTube API |
 | **[google-health-sync](https://github.com/nadeemcite/google-health-sync)** | Self-hosted personal health assistant that syncs Fitbit/Pixel Watch data from the Google Health API, with a chat assistant that remembers you, a diet planner, and a weekly report | Python · LiteLLM · Docker · Raspberry Pi |
-| **[Power Cut Report](https://print.devnadeem.com/reports/power-report.html)** | Automated device-uptime monitor with an LLM-written verdict | |
 | **[AI Learner](https://devnadeem.com/docs/ai-learner)** | Turns any PDF, page, or video into a daily reinforcement-based study loop delivered over Discord with AI feedback | LangChain · Python · Next.js |
 | **[NewsFlow](https://news.devnadeem.com)** | Reel-style news reader that turns RSS feeds into swipeable, image-rich cards | Next.js · RSS · Mobile-first |
 | **[TravellerTip](https://travellertip.com)** | Travel hub covering visa requirements, political relations, common scams, and destinations | Next.js · Postgres |
