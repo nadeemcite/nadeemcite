@@ -36,7 +36,7 @@ Lead engineer with 12+ years shipping production systems. For the last three yea
 
 - **[LangChain](https://github.com/langchain-ai/langchain/pull/29225)** — added `page_label` metadata to `PyPDFLoader` so PDFs with front matter map to real page numbers *(merged)*
 - **[LangFlow](https://github.com/langflow-ai/langflow/pull/7635)** — fixed duplicate primary-key indexes in database migrations *(merged)*
-- **[9router](https://github.com/decolua/9router/pull/5118)** — added Ollama support for System One decision models (clef, clef-flash), routed through the `/v1/systemone` endpoint for cloud and local *(accepted)*
+- **[9router](https://github.com/decolua/9router/pull/5118)** — added Ollama support for System One decision models (clef, clef-flash), routed through the `/v1/systemone` endpoint for cloud and local *(merged)*
 - **[ai-scan-job](https://hub.docker.com/r/nady5730642/ai-scan-job)** — LLM-powered GitHub PR reviewer that posts review comments straight into your workflow
 - **[py-cron](https://hub.docker.com/r/nady5730642/py-cron)** — lightweight image for running Python scripts on a cron schedule
 
