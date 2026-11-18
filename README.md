@@ -13,32 +13,42 @@
 
 Lead engineer with 12+ years shipping production systems. For the last three years I've been building production GenAI and agentic systems end to end: multi-agent platforms, LLM orchestration, and the Kubernetes infrastructure that runs them.
 
-📍 India · Open to Senior / Lead roles — relocation or remote
+📍 India · Open to Senior / Lead roles, relocation or remote
 
 ### Side projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Video Factory](https://video-factory.devnadeem.com)** | Submit an idea and a 7-stage pipeline generates transcript, audio, images, subtitles, and the final video — with YouTube upload built in | Next.js · Cloud Run · YouTube API |
+| **[Video Factory](https://video-factory.devnadeem.com)** | Submit an idea and a 7-stage pipeline generates transcript, audio, images, subtitles, and the final video, with YouTube upload built in | Next.js · Cloud Run · YouTube API |
 | **[google-health-sync](https://github.com/nadeemcite/google-health-sync)** | Self-hosted personal health assistant that syncs Fitbit/Pixel Watch data from the Google Health API, with a chat assistant that remembers you, a diet planner, and a weekly report | Python · LiteLLM · Docker · Raspberry Pi |
 | **[AI Learner](https://devnadeem.com/docs/ai-learner)** | Turns any PDF, page, or video into a daily reinforcement-based study loop delivered over Discord with AI feedback | LangChain · Python · Next.js |
 | **[NewsFlow](https://news.devnadeem.com)** | Reel-style news reader that turns RSS feeds into swipeable, image-rich cards | Next.js · RSS · Mobile-first |
 | **[TravellerTip](https://travellertip.com)** | Travel hub covering visa requirements, political relations, common scams, and destinations | Next.js · Postgres |
 | **[Chess Arena](https://devnadeem.com/docs/chess-arena)** | Benchmark engine that runs LLMs against each other in chess matches and knockout tournaments, logging legality, retries, tokens, and cost for every move | Next.js · Python · Postgres · Cloud Run |
 
+### Weekend projects
+
+I ship one small project every weekend. Latest below, full list at **[devnadeem.com/weekend-projects](https://devnadeem.com/weekend-projects)**.
+
+<!-- weekend:start -->
+| # | Date | Project | What it does |
+| --- | --- | --- | --- |
+| 01 | 15 Nov 2026 | **[PageMind](https://github.com/nadeemcite/pagemind)** (fork of CrossPoint Reader) | Select a passage on my e-reader, tap Ask AI, and read an explanation, definition or translation right on the e-ink screen. Custom firmware for the Xteink X4 Pro plus a small AI server you host on your own Google Cloud. Built with Claude Code as my pair programmer. |
+<!-- weekend:end -->
+
 ### Studying in public
 
-- **[research-papers](https://github.com/nadeemcite/research-papers)** — 100 landmark deep-learning papers, complete, reimplemented from scratch: Word2Vec, Dropout, Adam, VGGNet, GoogLeNet, Batch Norm, ResNet, seq2seq, Neural Turing Machines, Transformer, VAE, and more. Each paper gets a runnable `solution.ipynb`, an architecture breakdown, and an [Open in Kaggle](https://www.kaggle.com/code/nadymsazad/word2vec-word-representations) notebook linked back to the original arXiv publication.
-- **[llm-research-papers](https://github.com/nadeemcite/llm-research-papers)** — Season 2: 100 LLM-era papers from RMSNorm (2019) to 2026, reimplemented from scratch *(in progress)*.
-- **[jev-crash-course](https://github.com/nadeemcite/jev-crash-course)** — an 11-level crash course on Jev, TypeSafe AI's System One decision model. Runnable examples against the real API, plus a capstone ticket-triage project with unit tests and evals. Provider-agnostic via LiteLLM.
+- **[research-papers](https://github.com/nadeemcite/research-papers)**: 100 landmark deep-learning papers, complete, reimplemented from scratch: Word2Vec, Dropout, Adam, VGGNet, GoogLeNet, Batch Norm, ResNet, seq2seq, Neural Turing Machines, Transformer, VAE, and more. Each paper gets a runnable `solution.ipynb`, an architecture breakdown, and an [Open in Kaggle](https://www.kaggle.com/code/nadymsazad/word2vec-word-representations) notebook linked back to the original arXiv publication.
+- **[llm-research-papers](https://github.com/nadeemcite/llm-research-papers)**: Season 2, with 100 LLM-era papers from RMSNorm (2019) to 2026, reimplemented from scratch *(in progress)*.
+- **[jev-crash-course](https://github.com/nadeemcite/jev-crash-course)**: an 11-level crash course on Jev, TypeSafe AI's System One decision model. Runnable examples against the real API, plus a capstone ticket-triage project with unit tests and evals. Provider-agnostic via LiteLLM.
 
 ### Open source
 
-- **[LangChain](https://github.com/langchain-ai/langchain/pull/29225)** — added `page_label` metadata to `PyPDFLoader` so PDFs with front matter map to real page numbers *(merged)*
-- **[LangFlow](https://github.com/langflow-ai/langflow/pull/7635)** — fixed duplicate primary-key indexes in database migrations *(merged)*
-- **[9router](https://github.com/decolua/9router/pull/5118)** — added Ollama support for System One decision models (clef, clef-flash), routed through the `/v1/systemone` endpoint for cloud and local *(merged)*
-- **[ai-scan-job](https://hub.docker.com/r/nady5730642/ai-scan-job)** — LLM-powered GitHub PR reviewer that posts review comments straight into your workflow
-- **[py-cron](https://hub.docker.com/r/nady5730642/py-cron)** — lightweight image for running Python scripts on a cron schedule
+- **[LangChain](https://github.com/langchain-ai/langchain/pull/29225)**: added `page_label` metadata to `PyPDFLoader` so PDFs with front matter map to real page numbers *(merged)*
+- **[LangFlow](https://github.com/langflow-ai/langflow/pull/7635)**: fixed duplicate primary-key indexes in database migrations *(merged)*
+- **[9router](https://github.com/decolua/9router)**: added Ollama support for System One decision models (clef, clef-flash), routed through the `/v1/systemone` endpoint for cloud and local *(proposed in [PR #5118](https://github.com/decolua/9router/pull/5118), merged in commit [bc4a3cc](https://github.com/decolua/9router/commit/bc4a3cc7342104172a150735b991e11982323e75))*
+- **[ai-scan-job](https://hub.docker.com/r/nady5730642/ai-scan-job)**: LLM-powered GitHub PR reviewer that posts review comments straight into your workflow
+- **[py-cron](https://hub.docker.com/r/nady5730642/py-cron)**: lightweight image for running Python scripts on a cron schedule
 
 ### Toolbox
 
